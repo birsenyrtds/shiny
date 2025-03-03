@@ -1,1 +1,7 @@
 scanpy
+logging
+anndata
+numpy 
+matplotlib
+seaborn 
+shiny 
